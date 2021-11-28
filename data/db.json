@@ -1,0 +1,22 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "title": "Create new homepage banners",
+      "details": "loremsssannananan",
+      "complete": false
+    },
+    {
+      "id": 2,
+      "title": "Make marketing email",
+      "details": "lorem",
+      "complete": true
+    },
+    {
+      "title": "nesko car",
+      "details": "najstrasniji dasa na svetu",
+      "complete": true,
+      "id": 3
+    }
+  ]
+}
